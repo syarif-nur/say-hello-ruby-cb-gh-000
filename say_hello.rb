@@ -1,1 +1,3 @@
-# Build your say_hello method here
+def halo(nama)
+puts "halo #{nama}"
+end
