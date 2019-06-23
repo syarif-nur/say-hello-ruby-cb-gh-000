@@ -1,3 +1,3 @@
 def say_hello(nama)
-puts "Hello #{nama}"
+puts "Hello #{nama}!"
 end
