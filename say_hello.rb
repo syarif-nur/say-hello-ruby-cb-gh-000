@@ -1,3 +1,3 @@
-def halo(nama)
-puts "halo #{nama}"
+def say_halo(nama)
+puts "Hello #{nama}"
 end
